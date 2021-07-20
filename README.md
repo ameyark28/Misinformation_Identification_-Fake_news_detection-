@@ -1,8 +1,8 @@
 # Misinformation Identification Fake news detection
 
--Performed NLP misinformation identification for the US election (November 8, 2016) and COVID-19 news.
--Employed tokenization and stopwords for data cleaning, used word cloud for data visualization followed by feature engineering via lemmatization and scaled with Tf-IDF.
--Implement four models where logistic regression outperformed SVC, Passive-aggressive classifier and KNneighbours classifier.
+- Performed NLP misinformation identification for the US election (November 8, 2016) and COVID-19 news.
+- Employed tokenization and stopwords for data cleaning, used word cloud for data visualization followed by feature engineering via lemmatization and scaled with Tf-IDF.
+- Implement four models where logistic regression outperformed SVC, Passive-aggressive classifier and KNneighbours classifier.
 
 About the repository:
 
